@@ -23,7 +23,7 @@ This is a simple web application that allows users to download videos from YouTu
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/YouTube-Video-Downloader.git
+git clone https://github.com/Harshit51290/yt-ideo-downloder-in-react
 
 
 2. step by step
