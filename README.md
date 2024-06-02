@@ -12,8 +12,8 @@ This is a simple web application that allows users to download videos from YouTu
 ## Technologies Used
 
 - Frontend: React.js
-- Backend: Node.js with Express.js
-- Database: SQLite with Sequelize ORM
+- Backend: Express.js
+- Database: SQLite
 - Video download: ytdl-core
 - Authentication: JSON Web Tokens (JWT)
 - Styling: CSS
